@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Beautiful Hexo</title>
+  
+  <link href="/beautiful-hexo/atom.xml" rel="self"/>
+  
+  <link href="twoyao.github.io/"/>
+  <updated>2016-06-29T16:55:17.930Z</updated>
+  <id>twoyao.github.io/</id>
+  
+  <author>
+    <name>twoyao</name>
+    <email>bisyao@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test markdown</title>
+    <link href="twoyao.github.io/2016/01/02/test-markdown/"/>
+    <id>twoyao.github.io/2016/01/02/test-markdown/</id>
+    <published>2016-01-01T16:00:00.000Z</published>
+    <updated>2016-06-29T16:55:17.930Z</updated>
+    
+    <content type="html">&lt;p&gt;You can write regular &lt;a href=&quot;http://markdowntutorial.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;markdown&lt;/a&gt; here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to &lt;a href=&quot;http://markdowntutorial.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;take 5 minutes to learn how to write in markdown&lt;/a&gt; - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here is some bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Here-is-a-secondary-heading&quot;&gt;&lt;a href=&quot;#Here-is-a-secondary-heading&quot; class=&quot;headerlink&quot; title=&quot;Here is a secondary heading&quot;&gt;&lt;/a&gt;Here is a secondary heading&lt;/h2&gt;&lt;p&gt;Here’s a useless table:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Number&lt;/th&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Next number&lt;/th&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Previous number&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Five&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Six&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Four&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Ten&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Eleven&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Nine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Seven&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Eight&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Six&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Two&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Three&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;One&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;How about a yummy crepe?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg&quot; alt=&quot;Crepe&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Here’s a code chunk:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;x &amp;lt;- 5 + 10
+print(x)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And here is some code with syntax highlighting( &lt;em&gt;currently not supported&lt;/em&gt; )&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And here is a quote block&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hexo is a fast, simple &amp;amp; powerful blog framework powered by Node.js.&lt;br&gt;Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;You can write regular &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;markdown&lt;/a&gt; here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;take 5 minutes to learn how to write in markdown&lt;/a&gt; - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here is some bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Here-is-a-secondary-heading&quot;&gt;&lt;a href=&quot;#Here-is-a-secondary-heading&quot; class=&quot;headerlink&quot; title=&quot;Here is a secondary heading&quot;&gt;&lt;/a&gt;Here is a secondary heading&lt;/h2&gt;&lt;p&gt;Here’s a useless table:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Number&lt;/th&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Next number&lt;/th&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Previous number&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Five&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Six&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Four&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Ten&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Eleven&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Nine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Seven&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Eight&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Six&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Two&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Three&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;One&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+    
+    </summary>
+    
+    
+      <category term="markdown" scheme="twoyao.github.io/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>敦煌</title>
+    <link href="twoyao.github.io/2016/01/01/dh-intro/"/>
+    <id>twoyao.github.io/2016/01/01/dh-intro/</id>
+    <published>2015-12-31T16:00:00.000Z</published>
+    <updated>2016-07-01T17:48:41.122Z</updated>
+    
+    <content type="html">&lt;h3 id=&quot;莫高窟&quot;&gt;&lt;a href=&quot;#莫高窟&quot; class=&quot;headerlink&quot; title=&quot;莫高窟&quot;&gt;&lt;/a&gt;莫高窟&lt;/h3&gt;&lt;p&gt;举世瞩目的莫高窟则位于敦煌城区东南方向的鸣沙山上，于1987年被列入世界遗产名录。&lt;br&gt;莫高窟俗称“千佛洞”，开凿于前秦，在以后的一千多年里均有续建，直至元朝，是世界上现存规模最大、保存最完好的石窟寺。&lt;br&gt;有洞窟近500座，壁画数万平方米，内容以佛教为主，美轮美奂，被称为“石窟艺术宝库”。&lt;br&gt;20世纪初曾发现藏经洞，内藏4万多件经卷等文物，但在20世纪初大量流失至欧美国家。&lt;br&gt;莫高窟西南的西千佛洞以及相邻瓜州县榆林窟亦相类似，附近相似的石窟艺术被统称为“敦煌石窟”。&lt;br&gt;目前，国际上已经兴起了以研究敦煌石窟及相关文化、历史为主的“敦煌学”。&lt;br&gt;中国政府亦在这里建立了国家级的敦煌研究院。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;img src=&quot;/beautiful-hexo/assets/image/dh01.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;鸣沙山和月牙泉&quot;&gt;&lt;a href=&quot;#鸣沙山和月牙泉&quot; class=&quot;headerlink&quot; title=&quot;鸣沙山和月牙泉&quot;&gt;&lt;/a&gt;鸣沙山和月牙泉&lt;/h3&gt;&lt;p&gt;敦煌城南的鸣沙山—月牙泉也是一处著名风景区。鸣沙山沙分五色，当有大量人群从沙山上下滑时可轰鸣作响。&lt;br&gt;山中环抱有月牙泉，其形状宛若一弯新月，水色蔚蓝，清澈如镜。&lt;br&gt;但一度因过度开发当地地下水资源，而导致水位不断下降。&lt;br&gt;近年来，当地政府采取了一些措施，目前正在缓慢恢复中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/beautiful-hexo/assets/image/dh02.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;交通&quot;&gt;&lt;a href=&quot;#交通&quot; class=&quot;headerlink&quot; title=&quot;交通&quot;&gt;&lt;/a&gt;交通&lt;/h3&gt;&lt;p&gt;fasdfo&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;敦煌机场，可达兰州，乌鲁木齐和西安。&lt;a href=&quot;#ref-1&quot;&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2006年3月3日敦煌铁路货车通车，同年8月5日旅客列车通车。&lt;a href=&quot;#ref-2&quot;&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%95%A6%E7%85%8C%E7%AB%99&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;敦煌站&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/beautiful-hexo/assets/image/dh03.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;span id=&quot;ref-1&quot;&gt;&lt;/span&gt;&lt;a href=&quot;http://flights.ctrip.com/schedule/.DNH.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;敦煌到达航班时刻表&lt;/a&gt; . [2009-11-18]&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ref-2&quot;&gt;&lt;/span&gt;&lt;a href=&quot;http://www.dhnj.com/news/ShowArticle.asp?ArticleID=414&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;敦煌开出首列旅客列车&lt;/a&gt; . [2009-11-18]&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;莫高窟&quot;&gt;&lt;a href=&quot;#莫高窟&quot; class=&quot;headerlink&quot; title=&quot;莫高窟&quot;&gt;&lt;/a&gt;莫高窟&lt;/h3&gt;&lt;p&gt;举世瞩目的莫高窟则位于敦煌城区东南方向的鸣沙山上，于1987年被列入世界遗产名录。&lt;br&gt;莫高窟俗称“千佛洞”，开凿于前秦，在以后的一千多年里均有续建，直至元朝，是世界上现存规模最大、保存最完好的石窟寺。&lt;br&gt;有洞窟近500座，壁画数万平方米，内容以佛教为主，美轮美奂，被称为“石窟艺术宝库”。&lt;br&gt;20世纪初曾发现藏经洞，内藏4万多件经卷等文物，但在20世纪初大量流失至欧美国家。&lt;br&gt;莫高窟西南的西千佛洞以及相邻瓜州县榆林窟亦相类似，附近相似的石窟艺术被统称为“敦煌石窟”。&lt;br&gt;目前，国际上已经兴起了以研究敦煌石窟及相关文化、历史为主的“敦煌学”。&lt;br&gt;中国政府亦在这里建立了国家级的敦煌研究院。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="article" scheme="twoyao.github.io/tags/article/"/>
+    
+  </entry>
+  
+</feed>
